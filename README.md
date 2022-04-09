@@ -1,38 +1,20 @@
-- 👋 Hi, I’m @almaskhanwazir
-I am a software engineering graduate who is seeking to ﬁnd the opportunity to work in a fun and challenging working environment that will encourage me to improve and learn new and necessary skills as well as be motivated by the company to do
-my best for the sake of helping myself and the company advance in the software engineering industry.
-
-I love web development and Information technology, which is why i start working in this field after high school. I have about 18 months of experience in full-stack development on very complex projects with very senior developers. I worked on different back-end technologies, front-end, test automation scripts, deployment, agile development, CI and CD, and much more.
-i was responsible for all my code, from writing to deployment and writing tests for my tasks that were completed by me.
-I have a problem-solving attitude so bring on your problems, and I will get them fixed. As a Mensa member, I am able to add on new needed skills and knowledge very quickly. I can adopt new technologies quickly.
+Experienced software Engineer proficient in many platforms and tools, focused on delivering business value through quality software. I am equally comfortable discussing requirements in the language of the business as I am in heads-down coding sprints. I can take hard problems from conception to production, designing the big picture and sweating the details. A lively debater around the planning table and a passionate, agile collaborator, I understand that the team succeeds together. I love creating distributed systems, prototyping with new technology, and automating the tedious. I have an intellectual curiosity that fuels a fanatical devotion to skills improvement and constant learning. I also have a talent for leading technical projects, driving initiatives, and keeping all the balls in the air.
 
 🛠 Skills
-# HTML / CSS ⭐️⭐️⭐️⭐️⭐️
-I maintain the Semantic markup; I've experience with Search Engine Optimization. I can ensure consistent performance across multiple browsers and platforms. I often turn to use preprocessors such as Sass. I love PostCSS, and I prefer to develop future-proof CSS.
+# Full Stack Development ⭐️⭐️⭐️⭐️⭐️
+I have worked as a full stack software engineer for more than two years, I have worked with following frameworks and libraries:
+ 1) Front End: ReactJs, VueJs, NextJs, Quasar Framework, NuxtJs, Asp.Nt Razor And web forms, Tailwind, AntD, and bootstrap. 
+ a) Languages: Html, CSS, JavaScript
+ b) Mobile: Flutter
 
-# Javascript ⭐️⭐️⭐️⭐️⭐️
-one of my favorite programming languages. i have worked with it for more than 17 months. i used it in the front end with reactJS, Redux, react-hooks, VueJs,Quasar framework, NextJs, and in the backend with nodejs and express and for test automation with Jest and puppeteer.
-
-# C# ⭐️⭐️⭐️⭐️⭐️
-Asp.net is one of my favorite platforms. I have been working for more than 2 years with asp.net, building web APIs, MVC.
+ 2) Backend: Asp.net, Azure functions, Nodejs, ExpressJs, Aws Lambda, MySql, MongoDb, PostGresDb, CosmosDb
+ a) Languages : C#, JavaScript
 
 # Test Automation ⭐️⭐️⭐️⭐️⭐️
-I have been working with test automation with many tools. For mobile apps tests, I used Appium python, and for UI test automation, i used Jest puppeteer, and for Web Api tests, I used BDD specflow.
-# WordPress ⭐️⭐️⭐️⭐️⭐️
-I am familiar with WordPress. I can create custom themes as well as modifying existing themes, plugins and writing custom code. I'm specializing in using the Divi theme and removing malware.
+I have been working with test automation with many tools. For mobile apps tests, I used Appium python, and for UI test automation, I used Jest puppeteer, and for Web API tests, I used specflow.
 
 # Infrastructure ⭐️⭐️⭐️⭐️⭐️
-AWS, Microsoft Azure, Atlassian Bamboo, Atlassian Jira, BitBucket, and Git.
+AWS, Microsoft Azure, Atlassian Bamboo, Atlassian Jira, Bitbucket, and GitHub, GitLab, Heroku
 
-
-I enjoy working with the various technologies on the internet. I will provide high-quality results and hard work until you are satisfied
-- 👀 I’m interested in Learning new technologies.
-- 🌱 I’m currently learning Django framework
-- 💞️ I’m looking to collaborate on opensource as well as paid tasks.
-- 📫 How to reach me 
-Email: almaskhanwazir@gmail.com
-whatsapp: +923029473494
-<!---
-almaskhanwazir/almaskhanwazir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Others
+Data mapping with altova mapforce
