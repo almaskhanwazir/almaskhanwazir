@@ -17,4 +17,4 @@ I have been working with test automation with many tools. For mobile apps tests,
 AWS, Microsoft Azure, Atlassian Bamboo, Atlassian Jira, Bitbucket, and GitHub, GitLab, Heroku
 
 # Others
-Data mapping with altova mapforce
+Data mapping with altova mapforce, Azure Active directory, Blob storage, Data lake, Delta Lake
