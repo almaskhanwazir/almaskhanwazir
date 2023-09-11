@@ -18,3 +18,5 @@ AWS, Microsoft Azure, Atlassian Bamboo, Atlassian Jira, Bitbucket, and GitHub, G
 
 # Others
 Data mapping with altova mapforce, Azure Active directory, Blob storage, Data lake, Delta Lake
+
+## Portfolio : https://portfolio-almaskhanwazir.vercel.app/
